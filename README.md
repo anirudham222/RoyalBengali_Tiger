@@ -1,6 +1,6 @@
 ## Hello There 
 
-Welcome to the profile of an Enthusiat. I'm a Data Science student graduating this December 2025, with a passion of harnessing the ultimate power of MAchine Learning and Artificial Intelligence
+Welcome to the profile of an Enthusiat. I'm a ** Data Science ** student graduating this December 2025 at UWM, with a passion of harnessing the ultimate power of MAchine Learning and Artificial Intelligence
 
 
 ###🚀 About Me
@@ -8,8 +8,8 @@ Welcome to the profile of an Enthusiat. I'm a Data Science student graduating th
 
 Data Science Student at UWM
 Artificial Intelligence Researcher
-**🎓 Education**: Senior at UW-Milwaukee, majoring in Data Science with a minor in Cyber Security.
-**🧠 Interested in**: Gen AI, Deep Learning and Predictive Monitoring.
+* **🎓 Education**: Senior at UW-Milwaukee, majoring in Data Science with a minor in Cyber Security.
+* **🧠 Interested in**: Gen AI, Deep Learning and Predictive Monitoring.
 **💻 Projects:** See below for detailed insights into my work!
 **🏆 Leadership:**
 President of the UML Data Club for Data Scientists and AI.
